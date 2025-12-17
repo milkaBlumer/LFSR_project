@@ -32,8 +32,7 @@ It demonstrates the main concepts of UVM in a small, educational setup.
 
 ## 🚀 How to Run
 
-Compile all files with your simulator:
-
+**Compile all files with your simulator:**
 vlog *.sv
 
 
@@ -48,8 +47,11 @@ gtkwave dump.vcd
 
 ## 🧠 **Notes**
 
-Designed for learning & demonstration
+📚 Designed for learning & demonstration
 
-Minimal, clear UVM architecture
+🏗️ Minimal, clear UVM architecture
 
-Easy to extend for more complex tests
+⚡ Easy to extend for more complex tests
+
+## ❤️ **Thanks for exploring this project!**  
+I hope it was both informative and enjoyable.  
