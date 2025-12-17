@@ -63,5 +63,5 @@ gtkwave dump.vcd
 
 ---
 
-## ✨ **Thanks for exploring this project!**  
+✨ **Thanks for exploring this project!**  
 I hope it was both informative and enjoyable. ❤️  
