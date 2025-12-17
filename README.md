@@ -53,5 +53,5 @@ gtkwave dump.vcd
 
 ⚡ Easy to extend for more complex tests
 
-## ❤️ **Thanks for exploring this project!**  
-I hope it was both informative and enjoyable.  
+## ✨ **Thanks for exploring this project!**  
+I hope it was both informative and enjoyable. ❤️  
