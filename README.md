@@ -1,3 +1,4 @@
+🎯 Mini UVM Project – LFSR Verification
 This project is a compact UVM verification environment for an LFSR (Linear Feedback Shift Register) block.
 It demonstrates the main concepts of UVM in a small, educational setup.
 
