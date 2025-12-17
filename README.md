@@ -1,7 +1,7 @@
 This project is a compact UVM verification environment for an LFSR (Linear Feedback Shift Register) block.
 It demonstrates the main concepts of UVM in a small, educational setup.
 
-🗂 Project Structure
+🗂 **Project Structure**
 🔹 LFSR_agent.sv       # Combines driver, monitor, and sequencer into a single agent
 🔹 LFSR_design.sv      # DUT (LFSR design)
 🔹 LFSR_driver.sv      # Sends transactions to DUT based on sequence items
@@ -17,7 +17,7 @@ It demonstrates the main concepts of UVM in a small, educational setup.
 🔹 LFSR_test.sv        # Test instance
 🔹 testbench.sv        # Top-level testbench
 
-⚡ Features
+⚡ **Features**
 
 ✅ Transaction-level verification (sequence items)
 
@@ -36,16 +36,16 @@ Compile all files with your simulator:
 vlog *.sv
 
 
-Run the test:
+**Run the test:**
 
 vsim -c -do "run -all; quit" LFSR_tb
 
 
-View waveform:
+**View waveform:**
 
 gtkwave dump.vcd
 
-🧠 Notes
+🧠 **Notes**
 
 Designed for learning & demonstration
 
