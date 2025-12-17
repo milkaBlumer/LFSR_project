@@ -37,12 +37,12 @@ Compile all files with your simulator:
 vlog *.sv
 
 
-## **Run the test:**
+ **Run the test:**
 
 vsim -c -do "run -all; quit" LFSR_tb
 
 
-## **View waveform:**
+ **View waveform:**
 
 gtkwave dump.vcd
 
