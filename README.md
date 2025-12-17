@@ -2,6 +2,8 @@
 This project is a compact UVM verification environment for an LFSR (Linear Feedback Shift Register) block.
 It demonstrates the main concepts of UVM in a small, educational setup.
 
+---
+
 ## 🗂 **Project Structure**
 * LFSR_agent.sv       # Combines driver, monitor, and sequencer into a single agent
 * LFSR_design.sv      # DUT (LFSR design)
@@ -18,6 +20,8 @@ It demonstrates the main concepts of UVM in a small, educational setup.
 * LFSR_test.sv        # Test instance
 * testbench.sv        # Top-level testbench
 
+---
+
 ## ⚡ **Features**
 
 ✅ Transaction-level verification (sequence items)
@@ -29,6 +33,8 @@ It demonstrates the main concepts of UVM in a small, educational setup.
 ✅ Supports multiple polynomials & seed values
 
 ✅ Waveform dump (dump.vcd) for easy inspection
+
+---
 
 ## 🚀 How to Run
 
@@ -45,6 +51,8 @@ vsim -c -do "run -all; quit" LFSR_tb
 
 gtkwave dump.vcd
 
+---
+
 ## 🧠 **Notes**
 
 📚 Designed for learning & demonstration
@@ -52,6 +60,8 @@ gtkwave dump.vcd
 🏗️ Minimal, clear UVM architecture
 
 ⚡ Easy to extend for more complex tests
+
+---
 
 ## ✨ **Thanks for exploring this project!**  
 I hope it was both informative and enjoyable. ❤️  
